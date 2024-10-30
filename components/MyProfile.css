@@ -1,0 +1,43 @@
+.profile-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+.profile-header {
+    margin-bottom: 20px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #007bff;
+}
+
+.profile-name {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #343a40;
+    margin: 10px 0;
+}
+
+.profile-bio {
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+
+.profile-info h2 {
+    font-size: 1.5rem;
+    color: #343a40;
+    margin-top: 20px;
+}
+
+.profile-info p {
+    color: #6c757d;
+    margin: 5px 0;
+}
